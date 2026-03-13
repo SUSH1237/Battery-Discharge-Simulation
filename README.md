@@ -36,7 +36,7 @@ The simulation allows analysis of:
 ![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/968e9554ace7262ba511f29ad0c59c794223476b/dischargesc.png)
 
 ## Example Simulation Results
-![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/95db6fba303f65aa500bf9b5516343b9674123a6/discharge2023.slx)
+![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/c03dfb22da8264b755110ff7ea40f7af6a42c0d4/DischargeGraph%20(1).png)
 
 ## Future Improvements
 - Add **multiple load branches**
