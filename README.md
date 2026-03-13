@@ -24,6 +24,7 @@ The simulation allows analysis of:
 - System response under high current conditions
 
 ## Files
+https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/65581117db23b680878c1106cc799e120804efd5/discharge2023.slx
 
 https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/95db6fba303f65aa500bf9b5516343b9674123a6/discharge2023.slx
 
