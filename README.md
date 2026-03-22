@@ -33,10 +33,10 @@ The simulation allows analysis of:
 - Simscape Electrical
 
 ## Model Diagram
-![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/968e9554ace7262ba511f29ad0c59c794223476b/dischargesc.png)
+![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/4ad4ea0aa870774de2e39e557eedde470012cc15/discharge6sc.png)
 
 ## Simulation Results
-![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/c03dfb22da8264b755110ff7ea40f7af6a42c0d4/DischargeGraph%20(1).png)
+![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/4ad4ea0aa870774de2e39e557eedde470012cc15/discharge6graph.png)
 
 ## Future Improvements
 - Implement **switching control using MOSFETs**
