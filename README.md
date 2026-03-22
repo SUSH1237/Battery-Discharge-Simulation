@@ -1,5 +1,5 @@
 # Battery-Discharge-Simulation
-Simulink model of a 132A battery discharge circuit analyzing safe current delivery to a load
+Simulink model of a 132A battery discharge circuit analyzing safe current delivery to 6 parallel loads (2.48 ohms)
 
 # 132A Battery Discharge Circuit Simulation (Simulink)
 
@@ -39,6 +39,7 @@ The simulation allows analysis of:
 ![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/4ad4ea0aa870774de2e39e557eedde470012cc15/discharge6graph.png)
 
 ## Future Improvements
+-Implement **cheaper load system to reach current requirements and Power requirements**
 - Implement **switching control using MOSFETs**
 - Simulate **irradiance changes in PV-connected systems**
 - Implement **duty cycle control for power regulation**
