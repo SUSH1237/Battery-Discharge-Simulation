@@ -1,10 +1,10 @@
 # Battery-Discharge-Simulation
-Simulink model of a 132A battery discharge circuit analyzing safe current delivery to 6 parallel loads (2.48 ohms)
+Simulink model of a 24A battery discharge circuit analyzing safe current delivery to 4 loads from 4 batteries (2 ohms each) with switching logic to discharge one battery for every load until all batteries are discharged.
 
-# 132A Battery Discharge Circuit Simulation (Simulink)
+# 24A Battery Discharge Circuit Simulation (Simulink)
 
 ## Overview
-This project models a **132 A battery discharge circuit** using **MATLAB/Simulink**. The goal of the model is to analyze **safe current delivery from a battery to a connected load** and observe how current and voltage behave during high-current discharge conditions.
+This project models a **24 A battery discharge circuit** using **MATLAB/Simulink**. The goal of the model is to analyze **safe current delivery from a battery to a connected load** and observe how current and voltage behave during high-current discharge conditions.
 
 This simulation was developed as part of research work in a **PV/EV charging systems laboratory**.
 
@@ -24,7 +24,7 @@ The simulation allows analysis of:
 - System response under high current conditions
 
 ## Files
-- slx file (2023 compatible): https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/9d41769fa09f4f949d5cfaa3344d1f4c1d400ccc/discharge6.slx
+- slx file (2023 compatible): https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/d8615c3b63a395293b920b9fe8580478b4d02f85/dischargelogic.slx
 
 
 ## Tools Used
