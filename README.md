@@ -42,3 +42,5 @@ The simulation allows analysis of:
 ## Simulation Results
 ![img alt](https://github.com/SUSH1237/Battery-Discharge-Simulation/blob/7caba38148a02183c8936d2e9b17ff4e9c2bfbc5/dischargelogic4.png)
 
+## Conclusion
+The simulation successfully demonstrates a sequential battery discharge system in Simulink. Four Samsung INR 13S lithium-ion batteries (46.8V nominal, 10.8Ah) are discharged individually through 2Ω resistive loads at approximately 24A. The switching logic automatically disconnects a battery and activates the next one when terminal voltage drops below 42.9V, the manufacturer's minimum safe voltage. The voltage plot confirms the staircase discharge pattern; each battery discharges from ~53V to 42.9V in approximately 1,572 seconds (~27 minutes), consistent with the theoretical 2.17C discharge rate. Total simulated discharge time across all four batteries is approximately 1.8 hours. This simulation validates the switching threshold and sequencing logic prior to hardware implementation, providing a verified reference for programming the Arduino relay controller in the next phase of the project.
