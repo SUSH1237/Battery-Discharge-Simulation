@@ -6,8 +6,6 @@ Simulink model of a 24A battery discharge circuit analyzing safe current deliver
 ## Overview
 This project models a **24 A battery discharge circuit** using **MATLAB/Simulink**. The goal of the model is to analyze **safe current delivery from a battery to a connected load** and observe how current and voltage behave during high-current discharge conditions.
 
-This simulation was developed as part of research work in a **PV/EV charging systems laboratory**.
-
 ## Model Description
 The Simulink model represents a battery connected to multiple loads through a controlled circuit designed to safely handle high discharge current.
 
